@@ -162,5 +162,4 @@ Logical Volume Management (LVM) is a powerful system for managing disk space in 
    ```bash
    vgcfgrestore my_vg
    ```
-
 ---
