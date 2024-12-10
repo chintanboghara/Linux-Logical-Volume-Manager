@@ -1,2 +1,1 @@
-# Linux-Logical-Volume-Manager
-Logical Volume Management (LVM)
+# Logical Volume Management (LVM)
