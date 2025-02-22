@@ -42,8 +42,6 @@ Logical Volume Management (LVM) is a powerful system for managing disk space in 
    mount /dev/my_vg/my_lv /mnt/my_mount
    ```
 
----
-
 ### **Intermediate Concepts**
 
 1. **Resizing Logical Volumes**:
@@ -87,8 +85,6 @@ Logical Volume Management (LVM) is a powerful system for managing disk space in 
    ```
 
    Here `-i2` indicates the number of physical volumes to stripe across, and `-I 4` is the stripe size.
-
----
 
 ### **Advanced Concepts**
 
@@ -162,4 +158,3 @@ Logical Volume Management (LVM) is a powerful system for managing disk space in 
    ```bash
    vgcfgrestore my_vg
    ```
----
